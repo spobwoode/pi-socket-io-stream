@@ -1,4 +1,5 @@
 {
     "key" : "",
-    "password" : ""
+    "password" : "",
+    "server" : "https://tiny.stream:5000/camera"
 }
